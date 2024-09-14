@@ -24,7 +24,7 @@ int main()
     cin >> zipcode;
 
     cout << "Street: " << street << endl;
-    cout << "City, State, Zipcode: " << city << "," << state << zipcode;
+    cout << "City, State, Zipcode: " << city << ", " << state << ", " << zipcode;
 
 }
 
