@@ -7,7 +7,6 @@ int main()
 {
     // declare variable to store user input
     string city;
-    string zipcode;
     string street;
     string state;
     int zipcode;
